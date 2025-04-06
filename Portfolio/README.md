@@ -23,4 +23,4 @@ A modern, responsive portfolio website showcasing my skills, projects, and certi
 ## Installation ⚙️
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Saeedullah101/-My-Portfolio-Website/Portfolio.git
+   git clone https://github.com/Saeedullah101/-My-Portfolio-Website.git
